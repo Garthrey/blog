@@ -1,8 +1,11 @@
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("./src/css");
-  eleventyConfig.addPassthroughCopy("./src/img");
-  eleventyConfig.addPassthroughCopy("./src/fonts");
-  eleventyConfig.addPassthroughCopy("./src/js");
+  eleventyConfig.addPassthroughCopy("./src/_includes/css");
+  eleventyConfig.addPassthroughCopy("./src/_includes/img");
+  eleventyConfig.addPassthroughCopy("./src/_includes/fonts");
+  eleventyConfig.addPassthroughCopy("./src/_includes/js");
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
     passthroughFileCopy: true,

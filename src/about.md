@@ -3,4 +3,4 @@ title: About Me
 layout: base.njk
 ---
 
-<p>Heya 👋 this is my homepage.</p>
+Heya 👋 this is my homepage.
