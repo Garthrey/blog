@@ -4,10 +4,6 @@ layout: base.njk
 ---
 
 These are all of my amazing blog posts, enjoy!
-<ul>
-  {% for post in collections.blog | reverse %}
-  <li>
-    <a href="">{{ post.data.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+{% for post in collections.blog | reverse %}
+  [{{post.data.title}}](/blog/{{post.data.page.fileSlug}})
+{% endfor %}
