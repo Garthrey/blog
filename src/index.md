@@ -1,21 +1,7 @@
 ---
-title: Hello World!
+title: garthrey blog
 layout: base.njk
 ---
+![kamen rider ryuki](/_includes/img/ryuki-disappointed.gif)
 
-<p>
-  Check out your cool new static site built with
-  <a href="https://11ty.dev">11ty</a> on
-  <a href="https://neocities.org/">Neocities</a>.
-</p>
-
-<p>This homepage template is perfect for:</p>
-
-<ul>
-  <li>Creating your own space on the web</li>
-  <li>Expressing yourself</li>
-  <li>Displaying all the gifs you've collected</li>
-</ul>
-
-<h2>Why do you want a homepage?</h2>
-<p>The web was made for personal homepages, make this one yours</p>
+hello! i'm garthrey (they/she), a nerd with a mind that races too quick and fingers too slow to keep up with them. i'm focusing on wrapping up my education degree but i have my fingers in a lot of pies and starting my blog _for the third time_ to really dig into myself a bit more and use this space to hold me more accountable, plus serve as a bit of a journal.

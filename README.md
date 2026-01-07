@@ -9,4 +9,5 @@ push to main on git, then push to origin (comment loser)
 
 LINKS
 ---------
-[linktext](url.com)
+hyperlink: [linktext](url.com)
+image link: ![that's a rat](/_includes/img/rat.jpg)
