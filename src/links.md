@@ -1,12 +1,12 @@
 ---
-title: Links
+title: links
 layout: base.njk
 ---
 
-<p>These are some of my favourite websites 🔗</p>
+<p>this website was made possible thanks to:</p>
 <ul>
-  <li><a href="https://flamedfury.com">fLaMEdFury.com</a></li>
+  <li><a href="https://flamedfury.com/guides/11ty-homepage-neocities/">flamedfury 11ty guide</a></li>
   <li><a href="https://11ty.dev">11ty</a></li>
-  <li><a href="https://neocities.org">Neocities</a></li>
-  <li><a href="https://yesterweb.org/">The Yesterweb</a></li>
+  <li><a href="https://neocities.org">neocities</a></li>
+
 </ul>

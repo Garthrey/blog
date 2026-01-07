@@ -1,9 +1,9 @@
 ---
-title: This Is My Blog
+title: blog post library
 layout: base.njk
 ---
 
-These are all of my amazing blog posts, enjoy!
+blog posts:
 {% for post in collections.blog | reverse %}
   [{{post.data.title}}](/blog/{{post.data.page.fileSlug}})
 {% endfor %} 
