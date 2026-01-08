@@ -7,7 +7,7 @@
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
     /* Default (light) theme */
-    --bg: rgb(175, 209, 236);
+    --bg: rgb(173, 159, 238);
     --accent-bg: #f5f7ff;
     --text: black;
     --text-light: #585858;
@@ -40,7 +40,7 @@
   /* Make the body a nice central block */
   body {
     color: var(--text);
-    background: rgb(140, 167, 116);
+    background: rgb(74, 70, 90);
     background-image: url(/_includes/img/stars.png);
     font-size: 1rem;
     line-height: 1.5;
@@ -117,7 +117,7 @@
   /* Add a little padding to ensure spacing is correct between content and nav */
   main {
     padding-top: 20px;
-    max-width: 1000px;
+    max-width: 700px;
     background: var(--bg);
     padding: 15px;
   }
