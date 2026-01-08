@@ -3,6 +3,8 @@ title: "walks"
 date: 2026-01-07
 draft: false
 ---
+### 7.1.26 - notes app on my phone
+![bike on a pier](/_includes/img/bikepier.jpg)
 I don't go on many now,\
 they're too solitary\
 and thoughts move faster\
@@ -34,5 +36,3 @@ we just need to know when we're going\
 and she kisses my feet and asks\
 'how fast'\
 and I finally feel like a child
-
-### 7.1.26 - notes app on my phone

@@ -9,5 +9,5 @@ hello! i'm garthrey (they/she), a nerd from australia with a mind that races too
 
 i am incredibly inexperienced when it comes to programming, so expect fixes/updates to be slow and if something doesn't work as intended— it's not intentional (probably)
 
-use the navbar on the right to click through :)
+use the navbar to click through :)
 
