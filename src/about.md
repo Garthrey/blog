@@ -2,6 +2,9 @@
 title: about me
 layout: base.njk
 ---
+<p align="center">
+  <img src="/_includes/img/handsbanner.png" />
+</p>
 
 hello! i'm garthrey, a twenty-five year old non-binary person from australia. i was raised on the internet at a young age from my older brother and have always looked to the corners of the internet with a lot of awe and always wished to have a part in these non-traditional spaces such as private blogs, project sites, etc. 
 

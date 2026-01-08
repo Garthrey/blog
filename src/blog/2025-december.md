@@ -3,7 +3,7 @@ title: "bring on 2026 - an introduction"
 date: 2026-01-08
 draft: false
 ---
-#### 2026-08-01
+#### 1.8.26
 
 no guys seriously how do you write a blog HAHA
 

@@ -1,9 +1,11 @@
 ---
-title: garthrey blog (under construction)
+title: garthrey blog (🔧🔨)
 layout: base.njk
 ---
+<p align="center">
+  <img src="/_includes/img/cathardhat.jpg" />
+</p>
 
-![cat with a hardhat](/_includes/img/cathardhat.jpg)
 
 hello! i'm garthrey (they/she), a nerd from australia with a mind that races too quick and fingers too slow to keep up with them. i plan to use this site as primarily a blog and almost as the 'shadow' of my real-life social medias, in attempt to translate more internal and intimate thoughts/feelings against how awesome my life looks on a digicam. we will see how well this goes, but nonetheless i'm sure we'll all learn something along the way!
 
