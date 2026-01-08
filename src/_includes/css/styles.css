@@ -12,7 +12,7 @@
     --text: black;
     --text-light: #585858;
     --border: #black;
-    --accent: #228a78;
+    --accent: #ffffff;
   }
   
   /* Dark theme */
@@ -165,7 +165,7 @@
   .navigation {
     display: flex;
     flex-direction: column;
-    background-color: beige
+    background-color: var(--bg)
   }
 
   @media all and (max-width: 1100px) {
