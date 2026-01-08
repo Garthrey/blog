@@ -1,7 +1,7 @@
 ---
 title: "walks"
 date: 2026-01-08
-draft: true
+draft: false
 ---
 ## walks - jan 7th, 2026
 I don't go on many now,
