@@ -1,5 +1,5 @@
 ---
-title: blog post library
+title: blog posts
 layout: base.njk
 ---
 
