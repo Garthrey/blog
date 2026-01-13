@@ -1,5 +1,8 @@
 /* Global variables. */
+@import url('https://fonts.googleapis.com/css2?family=Cossette+Titre:wght@400;700&family=Jersey+10&family=Libre+Barcode+128+Text&family=Libre+Barcode+39+Text&family=Patrick+Hand+SC&family=Silkscreen:wght@400;700&display=swap');
+
 :root {
+
     /* Set sans-serif & mono fonts */
     --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
       "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
@@ -7,12 +10,12 @@
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
     /* Default (light) theme */
-    --bg: rgb(173, 159, 238);
+    --bg: rgb(178, 187, 111);
     --accent-bg: #f5f7ff;
     --text: black;
     --text-light: #585858;
     --border: #black;
-    --accent: #ffffff;
+    --accent: #4f5274;
   }
   
   /* Dark theme */
@@ -33,15 +36,15 @@
   
   html {
     /* Set the font globally */
-    font-family: MS Gothic;
+    font-family: "MS pGothic";
     scroll-behavior: smooth;
   }
-  
+
   /* Make the body a nice central block */
   body {
     color: var(--text);
-    background: rgb(74, 70, 90);
-    background-image: url(/_includes/img/stars.png);
+    background: var(--bg);
+    background-image: url(/_includes/img/textures/cartographer2.png);
     font-size: 1rem;
     line-height: 1.5;
     /* margin: 0 auto; */
@@ -52,9 +55,10 @@
   }
 
   aside {
+    font-family: "Silkscreen";
     background: var(--bg);
     height: min-content;
-    width: 200px;
+    width: fit-content;
     top: 60px;
     position: sticky; 
     padding: 8px;
@@ -85,7 +89,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: fit-content;
     padding-bottom: 2rem;
   }
   
@@ -134,7 +138,11 @@
   /* Format headers */
   
   h1 {
-    font-size: 3rem;
+    font-size: 5rem;
+    font-family: "Libre Barcode 128 Text";
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 30px;
   }
   
   h2 {
