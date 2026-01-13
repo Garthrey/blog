@@ -1,7 +1,7 @@
 ---
 title: "growing into a child"
 date: 2026-01-13
-draft: true
+draft: false
 ---
 #### 13.1.26
 
