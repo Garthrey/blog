@@ -31,3 +31,8 @@ we cannot all run from our adorable clumsiness\
 despite how we try\
 to hide our embarrassed smile,\
 when a stranger's face looks so unfamiliar without one.
+
+# author's note
+this piece i had written a while ago now and it was left in my notes app for quite some time. i do remember writing it though, and it definitely came at a low point where i realised i was drowning myself in intense emotions for the sake of it, and ended up basically digging myself into a depression forcefully from all the things i consumed and wrote. this was a way to dig out, to write something a lot softer and brighter and tone and reflect internal struggles with romantic/platonic affection i had during the time.
+
+in honesty, this piece still feels very relevant to me and for notes app vomit, i think the ideas in it about losing human touch and a severely individualistic society have some legs that i'd love to explore with more intent in another piece!

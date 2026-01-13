@@ -36,3 +36,8 @@ we just need to know when we're going\
 and she kisses my feet and asks\
 'how fast'\
 and I finally feel like a child
+
+# author's note
+falling in love with my first bike, riding it every day since i got it. this bike helped me through a lot of feelings, and heavily inspired by kino's journey, it truly does feel like a companion to me more than a vehicle or tool. i find myself personifying it too much oftentimes- like when the crank would make a funny noise i'd apologise, or if i push the bike too hard or scrape it i'll ask if she's okay. 
+
+this poem also comes at a time where i'm rediscovering a sense of childhood in myself from growing up too fast (see the blog: 'growing into a child') and the bike has become something i feel deeply connected to and serves as an internal metaphor for a newfound sense of freedom, both in the way that i can get to places more readily but also have an emotional freedom to be a stupid kid once again.
