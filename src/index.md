@@ -3,7 +3,7 @@ title: tallgirl dossiers
 layout: base.njk
 ---
 <p align="center">
-  <img src="/_includes/img/cathardhat.jpg" />
+  <img src="/_includes/img/garthreybanner.png" /> 
 </p>
 
 
@@ -12,4 +12,8 @@ hello! i'm garthrey (they/she), a nerd from australia with a mind that races too
 i am incredibly inexperienced when it comes to programming, so expect fixes/updates to be slow and if something doesn't work as intended— it's not intentional (probably)
 
 use the navbar to click through :)
+
+<p align="center">
+  <img src="/_includes/img/revup.png" /> 
+</p>
 

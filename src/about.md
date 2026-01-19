@@ -3,7 +3,7 @@ title: about me
 layout: base.njk
 ---
 <p align="center">
-  <img src="/_includes/img/handsbanner.png" />
+  <img src="/_includes/img/garthreybanner2.png" />
 </p>
 
 hello! i'm garthrey, a twenty-five year old non-binary person from australia. i was raised on the internet and have always looked to the corners of the internet with a lot of awe and always wished to have a part in these non-traditional spaces such as private blogs, project sites, etc. i spent a lottt of time on forums (not saying which ones bc ik some of you freaks could unironically find 12 y/o me's posts) and in online chatrooms/chatroom mmos (whirled.com, gaiaonline, etc.)
@@ -13,12 +13,22 @@ i have sincerely journaled very little in my life, and am actively feeling the s
 i hope this website grows into a library of things important to me no matter how fleeting or trivial they may seem, and that hopefully you as the reader get to learn something about me, the world, or are otherwise inspired to do something awesome in this world :)
 
 # media lists
-  <ul>
-    <li><a href="https://myanimelist.net/animelist/Garthrey?status=2&order=4&tag=">myanimelist 🎌</a></li>
-    <li><a href="https://infinitebacklog.net/users/garthrey">infinitebacklog 🎮</a></li>
-    <li><a href="https://www.goodreads.com/review/list/147946898?shelf=read">goodreads 📚</a></li>
-    <li><a href="https://letterboxd.com/Garthrey/films/">letterboxd 🎥</a></li>
-  </ul>
+
+<a href="https://myanimelist.net/animelist/Garthrey?status=2&order=4&tag=">
+    <img src="/_includes/img/mal.png" alt="MyAnimeList">
+</a>
+
+<a href="https://infinitebacklog.net/users/garthrey">
+    <img src="/_includes/img/infinitebacklog.png" alt="Infinite Backlog">
+</a>
+
+<a href="https://www.goodreads.com/review/list/147946898?shelf=read">
+    <img src="/_includes/img/goodreads.png" alt="Goodreads">
+</a>
+
+<a href="https://letterboxd.com/Garthrey/films/">
+    <img src="/_includes/img/letterboxd.png" alt="Letterboxd">
+</a>
 
 # camera(s)
 ### canon powershot a400

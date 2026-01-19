@@ -11,3 +11,7 @@ LINKS
 ---------
 hyperlink: [linktext](url.com)
 image link: ![that's a rat](/_includes/img/rat.jpg)
+
+RESOURCES
+---------
+https://www.transparenttextures.com/

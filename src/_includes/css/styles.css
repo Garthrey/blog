@@ -1,6 +1,13 @@
 /* Global variables. */
-@import url('https://fonts.googleapis.com/css2?family=Cossette+Titre:wght@400;700&family=Jersey+10&family=Libre+Barcode+128+Text&family=Libre+Barcode+39+Text&family=Patrick+Hand+SC&family=Silkscreen:wght@400;700&display=swap');
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=Cossette+Titre:wght@400;700&family=Jersey+10&family=Libre+Barcode+128+Text&family=Libre+Barcode+39+Text&family=Patrick+Hand&family=Roboto+Flex:opsz,wght,XOPQ,XTRA,YOPQ,YTDE,YTFI,YTLC,YTUC@8..144,100..1000,96,468,79,-203,738,514,712&family=Silkscreen:wght@400;700&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@font-face {
+  font-family: "Nintendo DS-BIOS";
+  src: url("/_includes/fonts/Nintendo-DS-BIOS.woff") format('woff');
 
+  font-family: "w95fa";
+  src: url("/_includes/fonts/w95fa.woff") format('woff');
+}
 :root {
 
     /* Set sans-serif & mono fonts */
@@ -36,7 +43,7 @@
   
   html {
     /* Set the font globally */
-    font-family: "MS pGothic";
+    font-family: "w95fa";
     scroll-behavior: smooth;
   }
 
@@ -46,7 +53,7 @@
     background: var(--bg);
     background-image: url(/_includes/img/textures/cartographer2.png);
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.1;
     /* margin: 0 auto; */
     /* padding: 0 1em; */
     display: flex;
@@ -123,7 +130,8 @@
     padding-top: 20px;
     max-width: 700px;
     background: var(--bg);
-    padding: 15px;
+    background-image: url(/_includes/img/textures/celltower.png);
+    padding: 35px;
   }
   
   body > footer {
