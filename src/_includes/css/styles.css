@@ -17,7 +17,7 @@
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
     /* Default (light) theme */
-    --bg: rgb(178, 187, 111);
+    --bg: rgb(243, 155, 155);
     --accent-bg: #f5f7ff;
     --text: black;
     --text-light: #585858;

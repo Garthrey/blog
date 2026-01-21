@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/_includes/css/normalise.css" />
+  <link rel="stylesheet" href="/_includes/css/styles.css" />
+  <title>{{ title }}</title>
+</head>
+
+<body>
+  <main>
+  <p align="center">
+  <img src="/_includes/img/title.jpg" />
+</p>
+    {{ content | safe }}
+    <footer>{% include 'footer.njk' %}</footer>
+  </main>
+  <aside>
+    {% include 'navigation.njk' %}
+  </aside>
+</body>
