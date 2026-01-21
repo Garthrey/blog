@@ -1,7 +1,7 @@
 ---
 title: "film photography - a beginner's thoughts"
 date: 2026-01-20
-draft: true
+draft: false
 ---
 #### 20.1.26
 
