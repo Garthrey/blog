@@ -3,7 +3,7 @@ title: "store below 25c"
 date: 2025-09-30
 draft: false
 ---
-### 30-09-25
+### 30.9.25
 ![oestradiol gel](/_includes/img/storebelow.png)
 
 #### STORE

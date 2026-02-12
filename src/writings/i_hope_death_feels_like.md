@@ -3,7 +3,7 @@ title: "i hope death feels like"
 date: 2025-09-30
 draft: false
 ---
-### 30-09-25
+### 30.09.25
 ![oestradiol gel](/_includes/img/death.png)
 
 I hear the driver’s voice, soft now, as if she’s trying not to wake me. “We’re here.” she says.
