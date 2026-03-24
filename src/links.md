@@ -3,7 +3,7 @@ title: links
 layout: base.njk
 ---
 <p align="center">
-  <img src="/_includes/img/linksbanner.png" />
+  <img src="/_includes/img/linksbanner2.png" />
 </p>
 
 ### this website was made possible thanks to:
