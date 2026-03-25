@@ -7,8 +7,14 @@ draft: true
 
 ## vball scrimmages/into the season
 
-## art galleries/exhibitions
-
-## mythic bastionland
+## a very mythic bastionland(tm)
+- evocative, rules-light but very tactile combat and streamlined tertiary mechanics
+- interesting OSR class system
+- gorg art
 
 ## wow midnight
+
+## crown gambit
+
+## between two fires
+- 
