@@ -11,12 +11,14 @@ but while i figure that out, i guess this is a good opportunity to talk about se
 
 ## why blog? why now white girl?
 ![garfield sleeping](/_includes/img/blog1_garfield2.jpg)
+
 i think in my 20s, having finally transitioned my gender and shifted into social groups that i truly feel at home with, i have only just realised how much my life was built on coping mechanisms i developed to make things make sense and for the world to be a lot more bearable.
 
 not that my childhood was explicitly traumatic or anything, i think i just always had an easy way out through things such as digital escapism and sunk a lot of my life into games, anime, and other entertainment with a sole purpose of 'passing time' until 'it got better'. now i'm 25 as of writing this, and in coming face to face with how much i rely on doomscrolling and ambient consumption to exist day-to-day i have made it my goal— nay mission! to defeat the evil of not touching grass... in layman's terms, my new years resolution (following from late 2025) is to just be a lot more *intentional* with the things i do and create. to me, i've identified it to mean seeking boredom without the crutch of the phone algorithms and making conscious efforts how to spend my time, albeit playing through a game on my ds, sketching, or writing. the blog gives me the opportunity to just write some bullshit, but also gives me the opportunity to reflect on my time spent and really identify if i want to do more, or less of something. simple, right?
 
 ## the setup
 ![setting up the repo](/_includes/img/blog1_setup.jpg)
+
 i think i have some sort of IT-related trauma from my degree, it's complicated, but i'm so thankful to have an incredibly lovely friend who not only helped me set this blasted thing up for **six hours**, but also was one of the biggest encouragements in even entertaining the idea of a neocities blog in the first place.
 
 we used the [flamedfury guide for 11ty](https://flamedfury.com/guides/11ty-homepage-neocities/) since one of my biggest pain points in the previous blogs (and a huge reason for their decay) was how much of a pain in the ass writing out blogposts in straight up html was, and i was told this is a more front-loaded solution that will make updates in the future painless! so far in writing this post, yeah, well... heh... let's justr say... it's pretty awesome... like being able to functionally just type in discord-syntax (which also uses markdown), being able to push changes instantly to a locally created copy, having github version control, plus 10x less annoying image linking than html all make me veryyy chuffed!
@@ -35,6 +37,7 @@ it's always hard talking about tokusatsu in a way that's understandable to non-t
 
 ## draw steel!
 ![draw steel](/_includes/img/drawsteel.jpg)
+
 i am a big sucker for ttrpgs. you will learn this sooo quickly. but imagine my shock as the forever gm that i get invited to a pathfinder 2e game of season of ghosts one week, and then my old group's gm asking for an eoi to try out the new MCDM system [draw steel](https://shop.mcdmproductions.com/en-au/collections/draw-steel). to say i was doing backflips would be an understatement. 
 
 draw steel is a self-described 'tactical heroic cinematic fantasy' game. basically what this boils down to is that it's a fantasy ttrpg that removes anything that does not support tactical, heroic, and/or cinematic gameplay. i was definitely intrigued in theory, but as with any concept it only goes as far as it's implemented— which thank god the designers have truly hit the nail on the head with it so far.
@@ -71,6 +74,7 @@ now, with a boombox poetically gotten on nyd, it's been so nice to just chuck an
 
 ## next steps
 ![two bikes](/_includes/img/bikes.jpg)
+
 well, now that i have a working skeleton of the blog. all that's left blog-wise is to freshen up the css, get it looking like not a temu version of my friend's blog, and get to writing!
 
 outside of the blog, i half-jokingly made a 'ins' vs 'outs' ny resolution list which honestly in doing so on the back of life events has actually proven very useful:
